@@ -1,0 +1,15 @@
+C:\Users\Mostafa Abbasi\source\RezaBagheri\QueueWithArray\bin\Debug\net6.0\QueueWithArray.exe
+C:\Users\Mostafa Abbasi\source\RezaBagheri\QueueWithArray\bin\Debug\net6.0\QueueWithArray.deps.json
+C:\Users\Mostafa Abbasi\source\RezaBagheri\QueueWithArray\bin\Debug\net6.0\QueueWithArray.runtimeconfig.json
+C:\Users\Mostafa Abbasi\source\RezaBagheri\QueueWithArray\bin\Debug\net6.0\QueueWithArray.dll
+C:\Users\Mostafa Abbasi\source\RezaBagheri\QueueWithArray\bin\Debug\net6.0\QueueWithArray.pdb
+C:\Users\Mostafa Abbasi\source\RezaBagheri\QueueWithArray\obj\Debug\net6.0\QueueWithArray.csproj.AssemblyReference.cache
+C:\Users\Mostafa Abbasi\source\RezaBagheri\QueueWithArray\obj\Debug\net6.0\QueueWithArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mostafa Abbasi\source\RezaBagheri\QueueWithArray\obj\Debug\net6.0\QueueWithArray.AssemblyInfoInputs.cache
+C:\Users\Mostafa Abbasi\source\RezaBagheri\QueueWithArray\obj\Debug\net6.0\QueueWithArray.AssemblyInfo.cs
+C:\Users\Mostafa Abbasi\source\RezaBagheri\QueueWithArray\obj\Debug\net6.0\QueueWithArray.csproj.CoreCompileInputs.cache
+C:\Users\Mostafa Abbasi\source\RezaBagheri\QueueWithArray\obj\Debug\net6.0\QueueWithArray.dll
+C:\Users\Mostafa Abbasi\source\RezaBagheri\QueueWithArray\obj\Debug\net6.0\refint\QueueWithArray.dll
+C:\Users\Mostafa Abbasi\source\RezaBagheri\QueueWithArray\obj\Debug\net6.0\QueueWithArray.pdb
+C:\Users\Mostafa Abbasi\source\RezaBagheri\QueueWithArray\obj\Debug\net6.0\QueueWithArray.genruntimeconfig.cache
+C:\Users\Mostafa Abbasi\source\RezaBagheri\QueueWithArray\obj\Debug\net6.0\ref\QueueWithArray.dll
